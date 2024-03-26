@@ -10,7 +10,7 @@ Welcome to RAKT take home assignment, this is the frontend built using react and
 
    ```bash
    git clone https://github.com/Simon-Ghiwot/RAKT_frontend.git
-   cd RAKT-take-home-assignment
+   cd RAKT_frontend
    ```
 
 2. **Install Dependencies:**
